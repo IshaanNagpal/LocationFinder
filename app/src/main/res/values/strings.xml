@@ -1,0 +1,21 @@
+<resources>
+
+    <!--APP COMMON-->
+    <string name="app_name">LocationFinder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--LOCATION FINDER ACTIVITY-->
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="update">Update</string>
+
+    <!--ALERT DIALOGS-->
+    <string name="enable_gps">Enable GPS</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_disabled">Location Disabled</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="please_turn_on">Please turn on location to high accuracy!</string>
+    <string name="check_your_internet">Check Your Internet Connection</string>
+</resources>
